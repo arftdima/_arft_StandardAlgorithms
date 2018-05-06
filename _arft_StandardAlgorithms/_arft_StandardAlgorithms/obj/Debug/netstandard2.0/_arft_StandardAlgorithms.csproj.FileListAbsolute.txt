@@ -1,0 +1,9 @@
+c:\users\dima\Source\Repos\_arft_StandardAlgorithms\_arft_StandardAlgorithms\bin\Debug\netstandard2.0\_arft_StandardAlgorithms.deps.json
+c:\users\dima\Source\Repos\_arft_StandardAlgorithms\_arft_StandardAlgorithms\bin\Debug\netstandard2.0\_arft_StandardAlgorithms.dll
+c:\users\dima\Source\Repos\_arft_StandardAlgorithms\_arft_StandardAlgorithms\bin\Debug\netstandard2.0\_arft_StandardAlgorithms.pdb
+c:\users\dima\Source\Repos\_arft_StandardAlgorithms\_arft_StandardAlgorithms\obj\Debug\netstandard2.0\_arft_StandardAlgorithms.csprojResolveAssemblyReference.cache
+c:\users\dima\Source\Repos\_arft_StandardAlgorithms\_arft_StandardAlgorithms\obj\Debug\netstandard2.0\_arft_StandardAlgorithms.csproj.CoreCompileInputs.cache
+c:\users\dima\Source\Repos\_arft_StandardAlgorithms\_arft_StandardAlgorithms\obj\Debug\netstandard2.0\_arft_StandardAlgorithms.AssemblyInfoInputs.cache
+c:\users\dima\Source\Repos\_arft_StandardAlgorithms\_arft_StandardAlgorithms\obj\Debug\netstandard2.0\_arft_StandardAlgorithms.AssemblyInfo.cs
+c:\users\dima\Source\Repos\_arft_StandardAlgorithms\_arft_StandardAlgorithms\obj\Debug\netstandard2.0\_arft_StandardAlgorithms.dll
+c:\users\dima\Source\Repos\_arft_StandardAlgorithms\_arft_StandardAlgorithms\obj\Debug\netstandard2.0\_arft_StandardAlgorithms.pdb
